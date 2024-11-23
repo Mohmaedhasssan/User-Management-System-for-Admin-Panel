@@ -1,6 +1,6 @@
 <?php
 require_once '../models/mysqladapter.php';
-require_once '../config/dp.php';
+require_once '../config/db.php';
 
 class UserAdapter extends MysqlAdapter
 {
